@@ -1,0 +1,11 @@
+truffle init -> initialize project at folder
+
+create the package.json
+
+set up the truffle-config.js
+
+create and write the contract
+
+create migration file (truffle migrate)
+
+truffle compile, gonna create a build folter with the contracts in json
